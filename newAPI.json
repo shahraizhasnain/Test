@@ -1,11 +1,32 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+                        {
+                            "BranchName": "Karachi",
+                            "Status": "Up",
+                            "plus":"<button type='button' clas  s='btn btn-link glyphicon glyphicon-plus-sign color-green shortinfo' onclick='angular.element(this).scope().childInfo([{
+                                "deviceName": "Donetello 1 ",
+                                "deviceType": "Donetello",
+                                "status": "Up",
+                                "macAddress": "17-C4-FD-1A-7B-A3",
+                                "component": [{
+                                    "message": "Printer 1 not Working",
+
+                                },
+                                    {
+                                        "message": "Printer 2 not working"
+                                    }
+                                ])'></button>",
+                            "devices": [{
+                                "deviceName": "Donetello 1 ",
+                                "deviceType": "Donetello",
+                                "status": "Up",
+                                "macAddress": "17-C4-FD-1A-7B-A3",
+                                "component": [{
+                                    "message": "Printer 1 not Working",
+
+                                },
+                                    {
+                                        "message": "Printer 2 not working"
+                                    }
+                                ]
+                            }
+                    ]
